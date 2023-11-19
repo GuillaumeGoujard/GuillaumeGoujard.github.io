@@ -86,7 +86,7 @@ sections:
       subtitle:
       text:
       # Contact (add or remove contact options as necessary)
-      email: goujard@berkeley.edu
+      email: goujard at berkeley dot edu
       address:
         street: 625 Davis Hall
         city: Berkeley
@@ -100,14 +100,6 @@ sections:
         longitude: '-122.258305'
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
