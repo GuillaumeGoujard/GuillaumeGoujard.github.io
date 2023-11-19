@@ -31,17 +31,17 @@ bio: My research interests include control and optimization under uncertainty an
 interests:
   - Artificial Intelligence
   - Optimal control
-  - Optimization
+  - State estimation
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Control
       institution: University of California, Berkeley
-      year: 2020
+      year: 2023
     - course: MS in Systems Engineering
       institution: University of California, Berkeley
-      year: 2019
+      year: 2020
     - course: Diplôme d'ingénieur
       institution: Ecole polytechnique
       year: 2019
@@ -77,7 +77,7 @@ social:
 highlight_name: true
 ---
 
-I’m a 4th-year PhD student in UC Berkeley’s eCAL, advised by Prof. Scott Moura. My research focuses on leveraging mathematical optimization to incorporate and analyze structure in energy systems. 
+I’m a 4th-year PhD student in UC Berkeley’s eCAL, advised by Prof. [Scott Moura](https://ce.berkeley.edu/people/faculty/moura). My research focuses on leveraging mathematical optimization to incorporate and analyze structure in energy systems. 
 
-I enjoy applying my research to industry problems: I’ve interned at Heila Technologoies, Tesla, and was a part time researcher at Lawrence Livermore National Laboratories.
+I enjoy applying my research to industry problems. I’ve interned at [Heila Technologies](https://heilatech.com/), [Tesla's Opticaster](https://www.tesla.com/support/energy/tesla-software/opticaster) team, and was a research scholar at [Lawrence Livermore National Laboratories](https://gs.llnl.gov/energy-homeland-security/cyber-and-infrastructure-resilience/energy-infrastructure).
 {style="text-align: justify;"}
