@@ -21,7 +21,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UC Berkeley, ECAL
+  - name: UC Berkeley, eCAL
     url: https://ecal.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,7 +77,7 @@ social:
 highlight_name: true
 ---
 
-I’m a 4th-year PhD student in UC Berkeley’s ECAL, advised by Prof. Scott Moura. My research focuses on leveraging mathematical optimization to incorporate and analyze structure in energy systems. 
+I’m a 4th-year PhD student in UC Berkeley’s eCAL, advised by Prof. Scott Moura. My research focuses on leveraging mathematical optimization to incorporate and analyze structure in energy systems. 
 
 I enjoy applying my research to industry problems: I’ve interned at Heila Technologoies, Tesla, and was a part time researcher at Lawrence Livermore National Laboratories.
 {style="text-align: justify;"}
