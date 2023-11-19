@@ -70,6 +70,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
+    id: publications
     content:
       title: Featured Publications
       filters:
