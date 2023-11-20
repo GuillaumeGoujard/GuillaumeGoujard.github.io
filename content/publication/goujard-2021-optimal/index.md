@@ -8,6 +8,8 @@ authors:
 - Salomé Schwarz
 - Scott J Moura
 date: '2021-01-01'
+url_code: 'https://github.com/GuillaumeGoujard/LMP_NZ'
+url_pdf: 'uploads/resume.pdf'
 publishDate: '2023-11-19T19:54:16.134714Z'
 publication_types:
 - paper-conference
