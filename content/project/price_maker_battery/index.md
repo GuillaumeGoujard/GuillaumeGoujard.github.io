@@ -1,6 +1,6 @@
 ---
 title: Capacity expansion of storage over nodal wholesale market
-summary: Optimizing battery placement and size to maximize revenue over a nodal wholesale market: a guide.
+summary: A guide to optimizing battery placement and size to maximize revenue over a nodal wholesale market.
 tags:
   - Optimization
   - Electricity Markets
@@ -12,8 +12,6 @@ external_link: ''
 image:
   caption: Photo by Karsten Würth on Unsplash
   focal_point: Smart
-
-links:
 
 ---
 
