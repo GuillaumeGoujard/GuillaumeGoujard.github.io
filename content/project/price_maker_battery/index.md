@@ -10,14 +10,10 @@ date: '2023-11-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Karsten Würth on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,6 +26,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+This blog post builds upon the insights from our [detailed article](content/publication/goujard-2021-optimal/index.md) and an accompanying Jupyter notebook, which can be found at [this GitHub repository](https://github.com/GuillaumeGoujard/LMP_NZ/blob/master/jupyter_notebook/notebook.ipynb). The purpose of this overview is to present the main results and highlights of our project, which focuses on the strategic placement and operation of battery storage systems in nodal wholesale electricity markets.
 
 ## Abstract
 The market for battery storage is rapidly expanding due to factors such as falling battery costs and the need for flexible renewable energy generation. This study presents a new approach for maximizing the profitability of a battery storage system in a nodal wholesale market by optimizing its siting, size, and bidding schedule. We introduce a price-maker mixed-integer optimization framework and compare its effectiveness with traditional price-taker models. Our results, based on simulations using New Zealand's market data, highlight the importance of considering market influence in battery operation strategies.
