@@ -15,12 +15,6 @@ image:
 
 links:
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 This blog post builds upon the insights from our [detailed article](publication/goujard-2021-optimal/) and an accompanying Jupyter notebook, which can be found at [this GitHub repository](https://github.com/GuillaumeGoujard/LMP_NZ/blob/master/jupyter_notebook/notebook.ipynb). The purpose of this overview is to present the main results and highlights of our project, which focuses on the strategic placement and operation of battery storage systems in nodal wholesale electricity markets.
