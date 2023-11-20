@@ -20,4 +20,7 @@ publishDate: '2023-11-19T19:54:16.134714Z'
 publication_types:
 - paper-conference
 publication: '*2021 American Control Conference (ACC)*'
+
+projects:
+  - optimal_siting
 ---
