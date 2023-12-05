@@ -1,6 +1,5 @@
 ---
-title: Exploration vs. Exploitation in Airborne Wind Energy Systems via Information-Directed
-  Sampling Control
+title: Exploration vs. Exploitation in Airborne Wind Energy Systems via Information-Directed Sampling Control
 authors:
 - Guillaume Goujard
 - Patrick Keyantuo

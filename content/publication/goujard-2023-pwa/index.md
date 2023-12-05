@@ -1,6 +1,5 @@
 ---
-title: Modeling and State Estimation for Lithium Sulfur
-Batteries as a Piecewise Affine System
+title: Modeling and State Estimation for Lithium Sulfur Batteries as a Piecewise Affine System
 authors:
 - Guillaume Goujard
 - Chitra Dangwal
