@@ -32,46 +32,5 @@ Participants in these markets, ranging from large-scale utility companies to sma
 
 In the wholesale electricity market, the role of a battery as either a 'price-taker' or 'price-maker' hinges on its influence over the market clearing price. A price-taker is an agent whose bids are too small to sway the overall market prices—like a single drop in an ocean. However, when the bid volumes are significant, the agent wields enough power to impact the prices, thus becoming a price-maker. For instance, in congested areas of the grid, where there's a bottleneck in power supply, even small bids from a battery can significantly affect the local prices, elevating the battery's role to that of a price-maker. This is because it can adjust the supply-demand balance by either injecting or withdrawing energy, which, respectively, lowers or raises the market clearing price. The figure you referred to illustrates this effect: a battery discharging lowers the price, while charging increases it, underscoring the battery’s capability to tilt the scale of market prices in either direction.
 
-### Research Focus
-Examining the profitability of battery storage at the transmission level in a nodal wholesale market, considering the battery as a price-maker during congestion periods.
-
-## 2. Problem Formulation
-### Battery Storage Problem
-We consider a standalone battery at the transmission level in a nodal market. The goals are to identify optimal siting, capacity, and bidding strategy.
-
-### Key Constraints
-Storage charge level (SCL) constraints, charging rate limits, and a linear model for charge profile.
-
-## 3. Nodal Wholesale Market Model
-### Key Components
-Describes the network topology, demand characteristics, generator specifications, and the economic dispatch process.
-
-### Economic Dispatch
-Outlines how market operators dispatch generation and storage to meet demand while minimizing costs.
-
-## 4. Optimization Framework
-### Price-Maker vs Price-Taker Framework
-Differentiates between the two approaches in terms of market influence and bidding strategy.
-
-### Mathematical Program under Equilibrium Constraints
-Presents a mixed-integer linear program formulation for profit maximization under the price-maker assumption.
-
-## 5. Case Study: New Zealand Energy Market
-### Scenario Setup
-Uses data and network characteristics from the New Zealand Energy Market for simulation.
-
-### Results & Discussion
-Presents findings on optimal battery siting and capacity under price-maker conditions. Highlights the influence of battery operation on market prices and profitability.
-
-## 6. Conclusion
-### Significance of Findings
-Emphasizes the importance of market-aware approaches in battery storage optimization, especially in nodal wholesale markets.
-
-### Future Research Directions
-Suggests further exploration into the impact of large-scale battery storage on market dynamics and social welfare.
-
-## Plots
-[Include main plots from the LaTeX file, focusing on market price variations, battery operation strategies, and profitability comparisons.]
-
-
+Work in progress...
 
