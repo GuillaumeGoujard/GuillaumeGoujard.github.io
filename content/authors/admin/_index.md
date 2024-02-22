@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Sr. Systems Engineer, PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UC Berkeley, eCAL
-    url: https://ecal.berkeley.edu/
+  - name: Tesla
+    url: https://tesla.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include control and optimization under uncertainty and programmable matter.
@@ -77,7 +77,7 @@ social:
 highlight_name: true
 ---
 
-I’m a Sr. Systems Design-Architecture Engineer in Tesla's Powertrain Architecture and Modeling Team. I build parametric models for vehicles to help decision making. I also hold a PhD sfrom UC Berkeley where I was advised by Prof. [Scott Moura](https://ce.berkeley.edu/people/faculty/moura). My research focused on leveraging mathematical optimization and stochastic processes over state-space models to analyze structure and inform decision and control in energy systems. 
+I’m a Sr. Systems Engineer in Tesla's Powertrain Architecture and Modeling Team. There, I develop parametric models to represent vehicles in order to help drive decisions on the system architecture. I hold a PhD from UC Berkeley where I was advised by Prof. [Scott Moura](https://ce.berkeley.edu/people/faculty/moura). My research focused on leveraging mathematical optimization and stochastic processes over state-space models to analyze structure and inform decision and control in energy systems. 
 
-I enjoy applying my research to industry problems. I’ve interned at [Heila Technologies](https://heilatech.com/), [Tesla's Opticaster](https://www.tesla.com/support/energy/tesla-software/opticaster) team, and was a research scholar at [Lawrence Livermore National Laboratories](https://gs.llnl.gov/energy-homeland-security/cyber-and-infrastructure-resilience/energy-infrastructure).
+I always enjoyed applying my research to industry problems. I’ve interned at [Heila Technologies](https://heilatech.com/), [Tesla's Opticaster](https://www.tesla.com/support/energy/tesla-software/opticaster) team, and was a research scholar at [Lawrence Livermore National Laboratories](https://gs.llnl.gov/energy-homeland-security/cyber-and-infrastructure-resilience/energy-infrastructure).
 {style="text-align: justify;"}
