@@ -77,7 +77,7 @@ social:
 highlight_name: true
 ---
 
-I’m a 4th-year PhD student in UC Berkeley’s eCAL, advised by Prof. [Scott Moura](https://ce.berkeley.edu/people/faculty/moura). My research focuses on leveraging mathematical optimization to incorporate and analyze structure in energy systems. 
+I’m a Sr. Systems Design-Architecture Engineer in Tesla's Powertrain Architecture and Modeling Team. I build parametric models for vehicles to help decision making. I also hold a PhD sfrom UC Berkeley where I was advised by Prof. [Scott Moura](https://ce.berkeley.edu/people/faculty/moura). My research focused on leveraging mathematical optimization and stochastic processes over state-space models to analyze structure and inform decision and control in energy systems. 
 
 I enjoy applying my research to industry problems. I’ve interned at [Heila Technologies](https://heilatech.com/), [Tesla's Opticaster](https://www.tesla.com/support/energy/tesla-software/opticaster) team, and was a research scholar at [Lawrence Livermore National Laboratories](https://gs.llnl.gov/energy-homeland-security/cyber-and-infrastructure-resilience/energy-infrastructure).
 {style="text-align: justify;"}
