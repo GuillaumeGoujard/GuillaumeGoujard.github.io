@@ -77,7 +77,9 @@ social:
 highlight_name: true
 ---
 
-I’m a Sr. Systems Engineer in Tesla's Powertrain Architecture and Modeling Team. There, I develop parametric models to represent vehicles in order to help drive decisions on the system architecture. I hold a PhD from UC Berkeley where I was advised by Prof. [Scott Moura](https://ce.berkeley.edu/people/faculty/moura). My research focused on leveraging mathematical optimization and stochastic processes over state-space models to analyze structure and inform decision and control in energy systems. 
+I’m a Sr. Systems Engineer in Tesla's Powertrain Architecture and Modeling Team. I'm in charge of developing parametric models to best represent vehicles in order to help drive decisions on the system architecture. 
+
+I hold a PhD from UC Berkeley where I was advised by Prof. [Scott Moura](https://ce.berkeley.edu/people/faculty/moura). My research focused on leveraging mathematical optimization and stochastic processes over state-space models to analyze structure and inform decision and control in energy systems. 
 
 I always enjoyed applying my research to industry problems. I’ve interned at [Heila Technologies](https://heilatech.com/), [Tesla's Opticaster](https://www.tesla.com/support/energy/tesla-software/opticaster) team, and was a research scholar at [Lawrence Livermore National Laboratories](https://gs.llnl.gov/energy-homeland-security/cyber-and-infrastructure-resilience/energy-infrastructure).
 {style="text-align: justify;"}
